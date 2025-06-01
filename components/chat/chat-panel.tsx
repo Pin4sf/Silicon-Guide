@@ -712,7 +712,7 @@ export function ChatPanel({
                                 <h3 className="text-lg font-medium mb-2">
                                     About the Silicon Guide Assistant
                                 </h3>
-                                <p className="text-sm text-gray-600 dark:text-gray-400">
+                                <p className="text-sm text-gray-600 dark:text-gray-400 break-words">
                                     I'm your AI-powered learning companion for
                                     the Silicon Guide handbook. I can help you
                                     understand semiconductor concepts, suggest
@@ -727,28 +727,28 @@ export function ChatPanel({
                                 <ul className="text-sm text-gray-600 dark:text-gray-400 space-y-2">
                                     <li className="flex items-start">
                                         <BookOpen className="h-4 w-4 mr-2 text-teal-600 mt-0.5" />
-                                        <span>
+                                        <span className="break-words">
                                             Answer questions about semiconductor
                                             topics in the handbook
                                         </span>
                                     </li>
                                     <li className="flex items-start">
                                         <ExternalLink className="h-4 w-4 mr-2 text-blue-600 mt-0.5" />
-                                        <span>
+                                        <span className="break-words">
                                             Research recent developments and
                                             external information
                                         </span>
                                     </li>
                                     <li className="flex items-start">
                                         <Sparkles className="h-4 w-4 mr-2 text-amber-600 mt-0.5" />
-                                        <span>
+                                        <span className="break-words">
                                             Create personalized learning paths
                                             based on your goals
                                         </span>
                                     </li>
                                     <li className="flex items-start">
                                         <Info className="h-4 w-4 mr-2 text-purple-600 mt-0.5" />
-                                        <span>
+                                        <span className="break-words">
                                             Summarize your learning sessions
                                         </span>
                                     </li>

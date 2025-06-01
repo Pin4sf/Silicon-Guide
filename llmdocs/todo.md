@@ -2,17 +2,19 @@
 
 ## Table of Contents
 
-1. [Authentication & User Management](#authentication--user-management)
-2. [Database & Data Persistence](#database--data-persistence)
-3. [Content Development](#content-development)
-4. [AI Integration](#ai-integration)
-5. [Feature Completion](#feature-completion)
-6. [UI/UX Improvements](#uiux-improvements)
-7. [Performance Optimization](#performance-optimization)
-8. [Testing](#testing)
-9. [Deployment](#deployment)
-10. [Documentation](#documentation)
-11. [Bug Fixes](#bug-fixes)
+- [Silicon Guide - Project Todo List](#silicon-guide---project-todo-list)
+  - [Table of Contents](#table-of-contents)
+  - [Authentication \& User Management](#authentication--user-management)
+  - [Database \& Data Persistence](#database--data-persistence)
+  - [Content Development](#content-development)
+  - [AI Integration](#ai-integration)
+  - [Feature Completion](#feature-completion)
+  - [UI/UX Improvements](#uiux-improvements)
+  - [Performance Optimization](#performance-optimization)
+  - [Testing](#testing)
+  - [Deployment](#deployment)
+  - [Documentation](#documentation)
+  - [Bug Fixes](#bug-fixes)
 
 ## Authentication & User Management
 
